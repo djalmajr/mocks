@@ -4,7 +4,7 @@
       "hasMany": "Artifact"
     },
     "name": {
-      "loremSentences": { "minLength": 50, "maxLength": 100 }
+      "loremSentences": { "minLength": 30, "maxLength": 100 }
     },
     "situation": {
       "loremWord": {}
