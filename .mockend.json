@@ -12,7 +12,7 @@
     "type": {
       "string": ["epic", "feature", "story"]
     },
-    "wsjs_sp": {
+    "wsjf_sp": {
       "int": { "min": 0, "max": 1000000 }
     }
   },
